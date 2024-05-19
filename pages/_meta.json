@@ -1,0 +1,28 @@
+{
+    "index": "Homepage",
+    "setup": {
+        "title": "The Setup",
+        "theme": {
+            "typesetting": "default"
+        }
+    },
+    "article": {
+        "title": "Article",
+        "theme": {
+            "typesetting": "article"
+        }
+    },
+    "---": {
+        "type": "separator"
+    },
+    "obsidian_link": {
+        "title": "Obsidian",
+        "href": "https://obsidian.md/",
+        "newWindow": true
+    },
+    "zotero_link": {
+        "title": "Zotero",
+        "href": "https://www.zotero.org/",
+        "newWindow": true
+    }
+}
